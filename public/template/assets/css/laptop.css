@@ -1,0 +1,545 @@
+/* css for header  */
+/* 14 15 16 17 18 19*/
+@media (min-width : 1250px) and (max-width : 5068px) {
+
+    /* navbar */
+    .nav-link {
+        font-size: 16px !important;
+    }
+
+    .sec-3-left-sec .sec-3-p,
+    .stepbox .step-box-h3 {
+        font-size: 17px;
+    }
+
+    .navbar {
+        padding: 10px 70px;
+    }
+
+    .header-logo {
+        width: 210px;
+    }
+
+    .footer-logo {
+        width: 190px;
+    }
+
+    .header-agent-btn,
+    .header-phone-text {
+        font-size: 15px;
+    }
+
+    .header-phone-icon {
+        font-size: 15px;
+        margin: 2px 0px;
+        padding: 3px;
+    }
+
+    .header-agent-btn {
+        padding: 0 20px;
+    }
+
+    /* sec1 */
+    .sec1 {
+        padding: 110px 70px;
+    }
+
+    .section-padding {
+        padding: 0px 114px;
+    }
+
+    .input-wrapper .sec-1-btn {
+        top: 6px;
+        right: 5px;
+        padding: 12px;
+
+    }
+
+    .input-wrapper {
+        width: 55%;
+        padding: 16px;
+    }
+
+    .input-wrapper .sec-1-btn,
+    .input-wrapper .sec-1-input {
+        font-size: 14px;
+    }
+
+    /* sec3 */
+    .sec-3-left-sec .sec-3-h1 {
+        font-size: 62px;
+        line-height: 57px;
+    }
+
+    .bgarrow {
+        background-size: 25%;
+        background-position-y: 17px;
+        background-position-x: 230px;
+    }
+
+    .sec1-h1 {
+        font-size: 37px;
+        line-height: 45px;
+    }
+
+    .stepbox .step-box-h2,
+    .sec4 .sec4-h1,
+    .sec5 .sec-5-h2 {
+        font-size: 31px;
+    }
+
+    /* sec4 */
+    .sec4 .sec-4-p {
+        font-size: 22px;
+        width: 58%;
+    }
+
+    .sec-4box {
+        width: 300px;
+        margin: 0px 20px 0px 0px;
+        height: 290px;
+    }
+
+    .sec-4box .sec-4-h2 {
+        font-size: 22px;
+        margin: 15px 0px;
+        padding: 0px 20px;
+    }
+
+    .feature__title {
+        font-size: 14px;
+    }
+
+    .feature__description {
+        font-size: 14px;
+    }
+
+    .sec-4box .sec-4-h3 {
+        font-size: 14px;
+        line-height: 25px;
+        padding: 0px 27px;
+    }
+
+    .sec-4box img {
+        width: 55px;
+        height: 60px;
+        /* object-fit: cover; */
+    }
+
+    .contact-icon {
+        width: 18px;
+        height: 17px;
+    }
+
+    .email-icon {
+        width: 12px;
+        height: 10px;
+    }
+
+    .sec6 .sec-6-h1 {
+        font-size: 18px;
+        line-height: 30px;
+        width: 100%;
+        /* font-size: 28px; */
+        /* width: 83%; */
+    }
+
+    .sec6 .input-wrapper {
+        width: 85%;
+        padding: 16px;
+    }
+
+    /* sec5 */
+
+    .footer-sec-1 .footer-sec1-h1 {
+        font-size: 14px;
+    }
+
+    .footer-sec-input .input-wrapper .footer-sec1-btn {
+        padding: 7px 16px;
+        font-size: 12px;
+        top: 7px;
+        right: 6px;
+    }
+
+    .footer-sec-input .input-wrapper .footer-sec1-input {
+        font-size: 14px;
+        padding: 12px 19px;
+    }
+
+    .contact-icon {
+        width: 10px;
+        height: 11px;
+    }
+
+    footer .nav-link {
+        font-size: 13px !important;
+    }
+
+    .footer-sec-icon {
+        margin-top: 10px;
+        font-size: 23px !important;
+
+    }
+
+    .footersec-h2,
+    .footersec-h3 {
+        font-size: 11px !important;
+    }
+
+    /*about page*/
+    .aboutsec1 {
+        padding: 90px 100px;
+    }
+
+    .aboutsec2 {
+        padding: 30px 100px;
+    }
+
+    footer {
+        padding: 0px 55px;
+    }
+
+    .about-sec-1 {
+        font-size: 36px;
+    }
+
+    .aboutsec1line {
+        width: 36%;
+        margin: 30px 0px;
+    }
+
+    .about-sec-p {
+        font-size: 22px;
+    }
+
+    .aboutsec2-h3 {
+        font-size: 28px;
+    }
+
+    .aboutsec2-p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .aboutsec2-h1,
+    .aboutsec2-h2 {
+        font-size: 22px;
+        margin: 30px 0px;
+    }
+
+    .aboutsec2-img {
+        height: 90%;
+    }
+
+    /*.propety sec */
+    .propertysec1 {
+
+        padding: 90px 70px;
+    }
+
+    .propertysec4-h1 {
+        font-size: 30px;
+    }
+
+    .propertysec4-p {
+        font-size: 17px;
+    }
+
+    .propertyimg {
+        top: -173px;
+        right: -180px;
+        width: 603px;
+    }
+
+    .accordion-title {
+        font-size: 15px !important;
+    }
+
+    .accordion button {
+        padding: 15px;
+    }
+
+    /*calculator*/
+    .calculaterSec1-h1 {
+        font-size: 32px;
+    }
+
+    .commission-img img {
+        height: 530px;
+    }
+
+    .commission-img2 img {
+        /*height: 380px; */
+    }
+
+    .commissionSec h2,
+    .commissionSec h2,
+    .mostCommon h2 {
+        font-size: 30px;
+    }
+
+    .calculaterSec1-p {
+        font-size: 18px;
+        line-height: 22px;
+        font-weight: 500;
+    }
+
+    .commissionSec p,
+    .mostCommon p {
+        font-size: 15px;
+        line-height: 24px;
+        /*margin-top : 15px;*/
+    }
+
+    .mostCommon .card .card-body .card-text {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .mostCommon .card {
+        width: 100%;
+        min-height: 0px !important;
+        height: 100% !important;
+        margin-top: 15px;
+    }
+
+    .card-img-1 {
+        width: 60px;
+        height: 57px;
+    }
+
+    .card-img-2 {
+        width: 54px;
+        height: 57px;
+    }
+
+    .card-header {
+        padding: 7px 0px;
+    }
+
+    .mostCommon .card .card-body {
+        padding: 20px;
+    }
+
+    .mostCommon .card .card-body .card-header h3 {
+        font-size: 21px;
+        line-height: 27px;
+    }
+
+    .flatFee {
+        margin: 45px 0px;
+    }
+
+    .flatFee h2 {
+        font-size: 30px;
+        font-weight: bold;
+        margin-bottom: 35px;
+
+    }
+
+    .flatFee p {
+        font-size: 18px;
+    }
+
+    /*cashback*/
+    .cashsec1 h1 {
+        font-size: 35px;
+    }
+
+    .cashsec1 p {
+        font-size: 21px;
+    }
+
+    .cashsec2 {
+        padding: 60px 0px;
+    }
+
+    .cashsec2 h1 {
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    .cashsec2 p {
+        font-size: 16px;
+    }
+
+    .cashbackimg {
+        height: 200px;
+    }
+
+    .right-column p {
+        font-size: 18px !important;
+        line-height: 24px !important;
+    }
+
+    .right-column h2 {
+        font-size: 50px !important;
+    }
+
+    .cont-5000 label {
+        font-size: 17px !important;
+    }
+
+    .cont-5000 input {
+        font-size: 14px !important;
+        height: 40px !important;
+    }
+
+    .cont-5000 button {
+        margin: 15px 0px 45px 0px;
+        height: 36px !important;
+    }
+
+    .firstFaq {
+        font-size: 16px;
+        margin: 20px 0px;
+    }
+
+    /*contact*/
+    .contactUs {
+        padding: 150px 0px;
+    }
+
+    .contactUs h1 {
+        font-size: 36px;
+    }
+
+    .contactUs h3 {
+        font-size: 23px;
+    }
+
+    .form-container h2 {
+        font-size: 34px;
+    }
+
+    .form-container p {
+        font-size: 20px;
+    }
+
+    .connect-header h3 {
+        font-size: 28px;
+        line-height: 33px;
+    }
+
+    /***********************************************************************************/
+    /*stepbox css */
+    .stepboxheading01 {
+        font-size: 32px;
+        margin-bottom: 30px;
+        padding-bottom: 20px;
+    }
+
+    .comparestepsbox {
+        padding: 50px 70px;
+    }
+
+    .stepboxheading02 {
+        font-size: 12px;
+        line-height: 21px;
+    }
+
+    .stepboxheading03 {
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    .disclaimer {
+        margin: 30px 0px;
+    }
+
+    .step1sellbox2 p,
+    .step1sellbox1 p {
+        font-size: 25px;
+        font-weight: 600;
+        margin: 1px 0px;
+    }
+
+    .step2sellbox1 p,
+    .step2sellbox2 p,
+    .step2sellbox3 p,
+    .step2sellbox4 p {
+        font-size: 17px;
+        font-weight: 600;
+        margin: 5px 0px;
+    }
+
+    .step1sellbox1 img,
+    .step1sellbox2 img {
+        width: 60px;
+        height: 60px;
+    }
+
+    .step2sellbox1 img,
+    .step2sellbox2 img,
+    .step2sellbox3 img,
+    .step2sellbox4 img {
+        width: 40px;
+        height: 30px;
+        object-fit: contain;
+    }
+
+    .infoicon {
+        width: 12px;
+    }
+
+    .steptext {
+        font-size: 12px;
+        margin: 9px 0px;
+
+    }
+
+    .step3text {
+        font-size: 22px !important;
+    }
+
+    /***********************************************************************************/
+    /*agentportal css*/
+    .agentportalsec1 .agent-sec-h1 {
+        font-size: 34px;
+    }
+
+    .agentportalsec2-h1 {
+        font-size: 32px;
+    }
+
+    .agentportalsec2box h1 {
+        padding-left: 40px;
+        font-size: 24px;
+    }
+
+    .agentportalsec2box p {
+        font-size: 15px;
+    }
+
+    .agentstepsbtn-1,
+    .agentstepsbtn-2 {
+        width: 100%;
+    }
+
+    /***********************************************************************************/
+    .step5sellbox1 h2 {
+        font-size: 20px;
+    }
+
+    .agentstepboxheading h2 {
+        font-size: 34px;
+    }
+}
+
+
+
+@media (min-width : 1370px) and (max-width : 2200px) {
+    .commission-img img {
+        /*height: 435px !important; */
+        /*width : 300px;*/
+    }
+
+    .commission-content {
+        padding-right: 20px !important;
+    }
+
+    .commission-img2 img {
+        /*height: 300px !important; */
+    }
+}
